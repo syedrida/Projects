@@ -1,7 +1,7 @@
-#R Project 8
-#Name: Rida Ali Raza Syed
+#R Project 3
+#Name: Rida Syed
 #Date: 04/05/2023
-#Vnumber: V00927243
+
 
 #1:Create a scatterplot of revenue versus month with correct titles for the plot. 
 #Comment on your plot. What do you observe? 

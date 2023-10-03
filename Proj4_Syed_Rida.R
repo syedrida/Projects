@@ -1,7 +1,7 @@
 #R Project 9
-#Name: Rida Ali Raza Syed
+#Name: Rida Syed
 #Date: 04/12/2023
-#V00927343
+
 
 
 #Draw 1000 samples from the following distributions and create histograms for each. 

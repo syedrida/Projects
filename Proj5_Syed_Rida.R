@@ -1,7 +1,7 @@
 #R Project 10
-#Name: Rida Ali Raza Syed
+#Name: Rida Syed
 #Date: 04/21/2023
-#Vnumber:V00927243
+
 
 
 #a) Generate a matrix “ss” with 1000 rows and 10 columns. The elements of “ss” 
